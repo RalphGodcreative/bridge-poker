@@ -1,9 +1,13 @@
 Poker Bot Manual
 
 ^p - init poker
+
 after init
+
 ^player - to join
+
 ^bridge - start bridge game
+
 
 ^reset - reset all
 ^clear - reset but players remain
